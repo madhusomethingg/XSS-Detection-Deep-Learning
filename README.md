@@ -142,13 +142,6 @@ pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
 
 ---
 
-## 📄 Research Report
-
-This project was submitted as the final term project for **DATA603 – Principles of Machine Learning**  
-University of Maryland, College Park
-
----
-
 ## 👤 Author
 
 Madhumitha Rajagopal
