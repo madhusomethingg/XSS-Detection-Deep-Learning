@@ -66,7 +66,7 @@ Source: Kaggle
 - Padded sequences to uniform fixed length for CNN and RNN compatibility
 - Highlighted key XSS indicators: `<script>` tags, `alert()` calls, JavaScript patterns
 
-### 2. Model Architectures
+### 2. Model Architectures 
 
 Three architectures were implemented and trained with identical settings for fair comparison — **Batch size: 128 | Epochs: 10**
 
